@@ -124,6 +124,13 @@ section img#mountains_front {
   font-size: 1.5em;
   z-index: 9;
   transform: translateY(100px);
+  
+}
+
+#btn:hover {
+  display: inline-block;
+  background-color: #2b1055;
+  color: #000;
 }
 
 .par {
